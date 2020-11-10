@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36cb70b8-002a-4ab1-891e-e04f081bb333" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Managers/GameEnvironment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/49F4E7E7-91CC-4FFF-ACD8-8F729E2B1E4C/1b/ebaeeb6d/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.1/Scripts/Runtime/TextMeshProUGUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Art/HeroEditor/Common/CharacterScripts/Character.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Unity/Hub/Editor/2020.1.2f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Image.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D9D5B1BE-AD53-47A8-B0FE-D2D5DBF20268/95/9d90c9d1/CharacterBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/49F4E7E7-91CC-4FFF-ACD8-8F729E2B1E4C/ab/e0dd412d/UnityEvent`2.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abilities Factory/SingleHandAttackAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abilities Factory/TwoHandsAttackAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abilities Factory/AbilityFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Art/FX/FX_Mover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Abilities Factory/IceMagicAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/States/CastingState.cs" />
+        <option value="$PROJECT_DIR$/Assets/AnimatingNpc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/States/IdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Command/Command.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Command/PerformAnAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Command/GoIntoDefensiveMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Command/PerformMagicAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Command/CommandInvoker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/States/AttackState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPC_Scripts/Npc.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIAbilityHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/GameEnvironment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/States/DefensiveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/HeroEditor/Common/CharacterScripts/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/States/State.cs" />
+        <option value="$PROJECT_DIR$/Assets/HeroEditor/Common/EditorScripts/CharacterEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/StaffAnim.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Abilities Factory/Ability.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Abilities Factory/AbilityFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Abilities Factory/DefenceAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Abilities Factory/HealAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Abilities Factory/IceMagicAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Abilities Factory/SingleHandAttackAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Abilities Factory/TwoHandsAttackAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/NPC_Scripts/Npc.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/AbilityInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/NpcInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/States/AttackState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI And Animation/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Art/HeroEditor/Common/CharacterScripts/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Command/Command.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Command/PerformMagicAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Command/PerformAnAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Command/GoIntoDefensiveMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/States/IdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/States/State.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/States/CastingState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI And Animation/StaffAnim.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI And Animation/LetterBoxer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI And Animation/UIAbilityHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI And Animation/UIToWorldSpace.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI And Animation/AnimatingNpc.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/States/DefensiveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Managers/GameEnvironment.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Command/CommandInvoker.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jR7fDnXf2fPY0xeBi0OFQgtoZn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Game\Assignment Starter.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Gento_PC\OneDrive\Desktop\Game" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36cb70b8-002a-4ab1-891e-e04f081bb333" name="Default Changelist" comment="" />
+      <created>1603755153762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603755153762</updated>
+      <workItem from="1603755162906" duration="23000" />
+      <workItem from="1603755282249" duration="5842000" />
+      <workItem from="1603795634531" duration="2070000" />
+      <workItem from="1603810538629" duration="4464000" />
+      <workItem from="1603815167713" duration="14317000" />
+      <workItem from="1603913351805" duration="3530000" />
+      <workItem from="1603926369527" duration="3753000" />
+      <workItem from="1603930340486" duration="329000" />
+      <workItem from="1603930879084" duration="18535000" />
+      <workItem from="1604333355863" duration="2114000" />
+      <workItem from="1604488884805" duration="1298000" />
+      <workItem from="1604497662957" duration="11297000" />
+      <workItem from="1604561441211" duration="7056000" />
+      <workItem from="1604595292511" duration="2391000" />
+      <workItem from="1604611810941" duration="4801000" />
+      <workItem from="1604619347515" duration="5299000" />
+      <workItem from="1604651324949" duration="9389000" />
+      <workItem from="1604677943362" duration="6226000" />
+      <workItem from="1604693094766" duration="7799000" />
+      <workItem from="1604739048607" duration="8254000" />
+      <workItem from="1604795582968" duration="18528000" />
+      <workItem from="1604836625651" duration="7574000" />
+      <workItem from="1604847244629" duration="5665000" />
+      <workItem from="1604854101715" duration="1463000" />
+      <workItem from="1604862488519" duration="1233000" />
+      <workItem from="1604877888362" duration="522000" />
+      <workItem from="1604878458422" duration="441000" />
+      <workItem from="1604946155298" duration="507000" />
+      <workItem from="1604947136799" duration="1051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="670" y="236" key="RiderGenerateDialog" timestamp="1604334715116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="236" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604334715116" />
+    <state x="618" y="267" width="672" height="678" key="search.everywhere.popup" timestamp="1604839335946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="618" y="267" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604839335946" />
+  </component>
+</project>

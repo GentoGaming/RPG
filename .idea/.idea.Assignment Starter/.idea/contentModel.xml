@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Gento_PC\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Gento_PC\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Assignment Starter.1879790554.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Gento_PC\OneDrive\Desktop\Assignment Starter" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Scripts" t="Include">
+          <e p="Abilities Factory" t="Include">
+            <e p="Ability.cs" t="Include" />
+            <e p="AbilityFactory.cs" t="Include" />
+            <e p="DefenceAbility.cs" t="Include" />
+            <e p="HealAbility.cs" t="Include" />
+            <e p="IceMagicAbility.cs" t="Include" />
+            <e p="SingleHandAttackAbility.cs" t="Include" />
+            <e p="TwoHandsAttackAbility.cs" t="Include" />
+          </e>
+          <e p="Command" t="Include">
+            <e p="Command.cs" t="Include" />
+            <e p="CommandInvoker.cs" t="Include" />
+            <e p="GoIntodefensiveMode.cs" t="Include" />
+            <e p="PerformAnAttack.cs" t="Include" />
+            <e p="PerformMagicAttack.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="GameEnvironment.cs" t="Include" />
+          </e>
+          <e p="NPC_Scripts" t="Include">
+            <e p="NPC.cs" t="Include" />
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="AbilityInfo.cs" t="Include" />
+            <e p="NpcInfo.cs" t="Include" />
+          </e>
+          <e p="States" t="Include">
+            <e p="AttackState.cs" t="Include" />
+            <e p="CastingState.cs" t="Include" />
+            <e p="DefensiveState.cs" t="Include" />
+            <e p="IdleState.cs" t="Include" />
+            <e p="State.cs" t="Include" />
+          </e>
+          <e p="UI And Animation" t="Include">
+            <e p="AnimatingNpc.cs" t="Include" />
+            <e p="LetterBoxer.cs" t="Include" />
+            <e p="StaffAnim.cs" t="Include" />
+            <e p="UIAbilityHolder.cs" t="Include" />
+            <e p="UIToWorldSpace.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Art" t="Include">
+          <e p="DamagePopups" t="Include">
+            <e p="DamagePopup.cs" t="Include" />
+          </e>
+          <e p="HeroEditor" t="Include">
+            <e p="Common" t="Include">
+              <e p="CharacterScripts" t="Include">
+                <e p="AnimationEvents.cs" t="Include" />
+                <e p="BowShooting.cs" t="Include" />
+                <e p="Character.cs" t="Include" />
+                <e p="CharacterFlip.cs" t="Include" />
+                <e p="CharacterSerializerExperimental.cs" t="Include" />
+                <e p="FingerTrigger.cs" t="Include" />
+                <e p="Firearm.cs" t="Include" />
+                <e p="FirearmFire.cs" t="Include" />
+                <e p="FirearmReload.cs" t="Include" />
+                <e p="LayerManager.cs" t="Include" />
+                <e p="MeleeWeapon.cs" t="Include" />
+                <e p="Projectile.cs" t="Include" />
+                <e p="Shell.cs" t="Include" />
+                <e p="WeaponControls.cs" t="Include" />
+              </e>
+              <e p="Data" t="Include">
+                <e p="FirearmParams.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="FirearmCollectionEditor.cs" t="Include" />
+                <e p="LayerManagerEditor.cs" t="Include" />
+                <e p="SpriteCollectionEditor.cs" t="Include" />
+              </e>
+              <e p="EditorScripts" t="Include">
+                <e p="CharacterBodySculptor.cs" t="Include" />
+                <e p="CharacterEditor.cs" t="Include" />
+                <e p="CharacterReferencesResolver.cs" t="Include" />
+                <e p="EditorColorField.cs" t="Include" />
+                <e p="FirearmCollection.cs" t="Include" />
+                <e p="NavigateButton.cs" t="Include" />
+                <e p="PhotoMaker.cs" t="Include" />
+                <e p="SosButton.cs" t="Include" />
+              </e>
+              <e p="Enums" t="Include">
+                <e p="FirearmLoadType.cs" t="Include" />
+                <e p="FirearmType.cs" t="Include" />
+                <e p="HoldType.cs" t="Include" />
+                <e p="MagazineType.cs" t="Include" />
+              </e>
+              <e p="ExampleScripts" t="Include">
+                <e p="CharacterControl.cs" t="Include" />
+                <e p="PlayingAnimations.cs" t="Include" />
+                <e p="RuntimeSetup.cs" t="Include" />
+                <e p="SaveLoadExample.cs" t="Include" />
+                <e p="SortingOrderExample.cs" t="Include" />
+                <e p="TestRoom.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="GrayPaint.shader" t="Include" />
+              </e>
+            </e>
+            <e p="FantasyHeroes" t="Include">
+              <e p="TestRoom" t="Include">
+                <e p="Scarecrow" t="Include">
+                  <e p="Scarecrow.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="FantasyMonsters" t="Include">
+              <e p="TestRoom" t="Include">
+                <e p="Scarecrow" t="Include">
+                  <e p="Scarecrow.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="SpriteSheetMaker" t="Include">
+              <e p="SpriteSheetMaker.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assignment Starter.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
